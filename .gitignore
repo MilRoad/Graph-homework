@@ -138,3 +138,5 @@ dmypy.json
 cython_debug/
 .DS_Store
 .ipynb_checkpoints
+*.csv
+*.json
